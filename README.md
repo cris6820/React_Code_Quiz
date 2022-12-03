@@ -19,6 +19,8 @@ THEN I can save my initials and score
 
 
 Quiz Questions:
+
+
         Question: "How do we change something?",
         choices: strings, booleans, alerts, event,
         answer: event,
@@ -32,5 +34,6 @@ Quiz Questions:
         answer: Facebook,
 
         Question: "What is REACT?.",
-        choices: React is a JavaScript-based UI development library, It is a standard markup language for web page creation, Extension to the JavaScript language syntax ,
+        choices: React is a JavaScript-based UI development library, It is a standard markup language for web page creation, Extension to the JavaScript language               syntax ,
         answer: React is a JavaScript-based UI development library,
+
