@@ -1,0 +1,21 @@
+html, body{
+    font-family: 'Arial',;
+    font-size: larger;
+}
+.quiz, .scoreContainer, .highScorePage{
+    display: none;
+}
+
+.card {
+    margin-top: 7% !important;
+}
+
+li:hover {
+    background-color:rgba(183, 208, 243, 0.903);
+    max-width: fit-content;
+    cursor: pointer;
+  }
+
+  .highScorePage{
+    margin-top: 0%;
+  }
