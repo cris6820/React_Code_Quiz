@@ -15,3 +15,4 @@ WHEN the game is over
 THEN I can save my initials and score
 
 ⬆ This is what the page functionality should have been.
+![image](https://user-images.githubusercontent.com/107166355/205411395-b10d9f9f-220c-4fa2-9487-8c5a992b860f.png)
